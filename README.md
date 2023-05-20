@@ -4,4 +4,4 @@
   
 [實際demo影片](https://youtu.be/w1lfogixsGI)  
   
-在Navigation App當中，使用HERE map SDK，並且將該APP改寫成可以透過Socket傳輸資料
+備註：在Navigation App當中，使用HERE map SDK，並且將該APP改寫成可以透過Socket傳輸資料
