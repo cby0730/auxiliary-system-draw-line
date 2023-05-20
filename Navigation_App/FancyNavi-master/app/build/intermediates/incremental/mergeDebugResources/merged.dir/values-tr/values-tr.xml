@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d yeni bildirim</item>
+    <item quantity="other">%d yeni bildirim</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Eve gidiş yolunu göster"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Yukarı git"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Diğer seçenekler"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Bitti"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Tümünü göster"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Bir uygulama seçin"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"KAPAT"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"AÇ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"sil"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Üst Karakter+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"boşluk"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menü+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Ara…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Sorguyu temizle"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Arama sorgusu"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Ara"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Sorguyu gönder"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Sesli arama"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Şununla paylaş:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> ile paylaş"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Daralt"</string>
+    <string name="bottomsheet_action_expand_halfway">Yarım genişlet</string>
+    <string name="character_counter_content_description">Girilen karakter: %1$d / %2$d</string>
+    <string name="character_counter_overflowed_content_description">Karakter sınırı aşıldı %1$d / %2$d</string>
+    <string name="clear_text_end_icon_content_description">Metni temizle</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Etkinleştir"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Google Play hizmetlerini etkinleştirmezseniz <ns1:g id="APP_NAME">%1$s</ns1:g> çalışmaz."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play hizmetlerini etkinleştirin"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Yükle"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>, şu anda cihazınızda bulunmayan Google Play hizmetleri olmadan çalışmaz."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play hizmetlerini edinin"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Google Play hizmetlerinin kullanılabilirliği"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play Hizmetleri hatası"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g>, Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyin."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>, Google Play hizmetleri olmadan çalışmaz ve bu hizmetler cihazınız tarafından desteklenmiyor."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Güncelle"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Google Play hizmetlerini güncellemezseniz <ns1:g id="APP_NAME">%1$s</ns1:g> çalışmayacak."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play hizmetlerini güncelleyin"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>, şu anda güncellenmekte olan Google Play hizmetleri olmadan çalışmaz."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Google Play hizmetlerinin yeni sürümü gerekiyor. Kendisini kısa süre içinde güncelleyecektir."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Telefonda aç"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Oturum aç"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Google\'da oturum aç"</string>
+    <string name="error_icon_content_description">Hata</string>
+    <string name="exposed_dropdown_menu_content_description">Açılır menüyü göster</string>
+    <string name="icon_content_description">İletişim kutusu simgesi</string>
+    <string name="item_view_role_description">Sekme</string>
+    <string name="material_clock_toggle_content_description">ÖÖ veya ÖS\'yi seçin</string>
+    <string name="material_hour_selection">Saat seçin</string>
+    <string name="material_hour_suffix">Saat %1$s</string>
+    <string name="material_minute_selection">Dakikayı seçin</string>
+    <string name="material_minute_suffix">%1$s dakika</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Zaman girişi için saat moduna geçin.</string>
+    <string name="material_timepicker_hour">Saat</string>
+    <string name="material_timepicker_minute">Dakika</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Zamanı seçin</string>
+    <string name="material_timepicker_text_input_mode_description">Zaman girişi için metin girişi moduna geçin.</string>
+    <string name="msdkui_allow_car_pool">Araba paylaşımına izin ver</string>
+    <string name="msdkui_allow_car_shuttle">Arabalı trenlere izin ver</string>
+    <string name="msdkui_allow_dirt_roads">Toprak yollara izin ver</string>
+    <string name="msdkui_allow_ferries">Feribotlara izin ver</string>
+    <string name="msdkui_allow_highways">Otobanlara izin ver</string>
+    <string name="msdkui_allow_parks">Parklara izin ver</string>
+    <string name="msdkui_allow_toll_roads">Ücretli yollara izin ver</string>
+    <string name="msdkui_allow_tunnels">Tünellere izin ver</string>
+    <string name="msdkui_arrive">Varış</string>
+    <string name="msdkui_arrive_at">Varış</string>
+    <string name="msdkui_avoid_long_term_closures">Kapalı yolları kullanma</string>
+    <string name="msdkui_balanced">Dengeli</string>
+    <string name="msdkui_bike">Bisiklet</string>
+    <string name="msdkui_cancel">İptal</string>
+    <string name="msdkui_car">Otomobil</string>
+    <string name="msdkui_combustible">Parlayıcı</string>
+    <string name="msdkui_corrosive">Aşındırıcı</string>
+    <string name="msdkui_days">%1$d g</string>
+    <string name="msdkui_days_hours">%1$d g %2$d s</string>
+    <string name="msdkui_depart">Çıkış</string>
+    <string name="msdkui_depart_at">Çıkış</string>
+    <string name="msdkui_disable">Kapat</string>
+    <string name="msdkui_disabled">Kapalı</string>
+    <string name="msdkui_done">Bitti</string>
+    <string name="msdkui_drag_waypoint">Ara noktayı sürükleyin</string>
+    <string name="msdkui_drag_waypoint_button">%1$d dizinindeki ara nokta düğmesini sürükleyin</string>
+    <string name="msdkui_duration">Süre</string>
+    <string name="msdkui_enabled">Açık</string>
+    <string name="msdkui_estimated_arrival">Tahmin edilen varış</string>
+    <string name="msdkui_explosive">Patlayıcı</string>
+    <string name="msdkui_fastest">En hızlı</string>
+    <string name="msdkui_flammable">Yanıcı</string>
+    <string name="msdkui_gas">Gaz</string>
+    <string name="msdkui_harmful_to_water">Su kirletici</string>
+    <string name="msdkui_hazardous_materials_title">Tehlikeli maddeler</string>
+    <string name="msdkui_height">Yükseklik</string>
+    <string name="msdkui_hours">%1$d s</string>
+    <string name="msdkui_hours_minutes">%1$d s %2$d dk</string>
+    <string name="msdkui_incl">Şu dhl:</string>
+    <string name="msdkui_incl_traffic_delay">%1$s gecikme dahil</string>
+    <string name="msdkui_including">Şu dahil:</string>
+    <string name="msdkui_length">Uzunluk</string>
+    <string name="msdkui_limited_weight">Ağırlık sınırı</string>
+    <string name="msdkui_maneuver_arrive_at_02y">Varış</string>
+    <string name="msdkui_maneuver_continue">Devam</string>
+    <string name="msdkui_maneuver_end">Vardınız</string>
+    <string name="msdkui_maneuver_enter_car_shuttle_train">Trene binin</string>
+    <string name="msdkui_maneuver_enter_ferry">Feribota binin</string>
+    <string name="msdkui_maneuver_enter_highway">Otobana çıkın</string>
+    <string name="msdkui_maneuver_exit">Çıkış %1$s</string>
+    <string name="msdkui_maneuver_exit_directions_towards">%2$s yönüne giden %1$s</string>
+    <string name="msdkui_maneuver_head_to">%1$s yönüne gidin</string>
+    <string name="msdkui_maneuver_leave_highway">Çıkıştan çıkın</string>
+    <string name="msdkui_maneuver_orientation_east">Doğu</string>
+    <string name="msdkui_maneuver_orientation_north">Kuzey</string>
+    <string name="msdkui_maneuver_orientation_north_east">Kuzeydoğu</string>
+    <string name="msdkui_maneuver_orientation_north_west">Kuzeybatı</string>
+    <string name="msdkui_maneuver_orientation_south">Güney</string>
+    <string name="msdkui_maneuver_orientation_south_east">Güneydoğu</string>
+    <string name="msdkui_maneuver_orientation_south_west">Güneybatı</string>
+    <string name="msdkui_maneuver_orientation_west">Batı</string>
+    <string name="msdkui_maneuver_pt_change">Aktarma</string>
+    <string name="msdkui_maneuver_pt_change_at">Aktarma: %1$s</string>
+    <string name="msdkui_maneuver_pt_get_on_here">Şuna binin</string>
+    <string name="msdkui_maneuver_pt_stopover">Ara nokta</string>
+    <string name="msdkui_maneuver_pt_travel_start">%1$s aracına binin</string>
+    <string name="msdkui_maneuver_pt_walk">Yürüyüş</string>
+    <string name="msdkui_maneuver_road_name_divider">%1$s/%2$s</string>
+    <string name="msdkui_maneuver_turn_keep_left">Solda kalın</string>
+    <string name="msdkui_maneuver_turn_keep_middle">Ortadaki sokağa girin</string>
+    <string name="msdkui_maneuver_turn_keep_right">Sağda kalın</string>
+    <string name="msdkui_maneuver_turn_left">Sola dönün</string>
+    <string name="msdkui_maneuver_turn_right">Sağa dönün</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_1">1. çıkıştan çıkın</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_10">10. çıkıştan çıkın</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_11">11. çıkıştan çıkın</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_12">12. çıkıştan çıkın</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_2">2. çıkıştan çıkın</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_3">3. çıkıştan çıkın</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_4">4. çıkıştan çıkın</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_5">5. çıkıştan çıkın</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_6">6. çıkıştan çıkın</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_7">7. çıkıştan çıkın</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_8">8. çıkıştan çıkın</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_9">9. çıkıştan çıkın</string>
+    <string name="msdkui_maneuver_turn_sharply_left">Sola keskin dönüş yapın</string>
+    <string name="msdkui_maneuver_turn_sharply_right">Sağa keskin dönüş yapın</string>
+    <string name="msdkui_maneuver_turn_slightly_left">Hafifçe sola dönün</string>
+    <string name="msdkui_maneuver_turn_slightly_right">Hafifçe sağa dönün</string>
+    <string name="msdkui_maneuver_uturn">U dönüşü yapın</string>
+    <string name="msdkui_maneuverpanel_nodata">Haritadaki rotayı takip edin</string>
+    <string name="msdkui_maneuverpanel_updating">Güncelleniyor</string>
+    <string name="msdkui_minutes">%1$d dk</string>
+    <string name="msdkui_next_maneuver">Sonraki manevra</string>
+    <string name="msdkui_no_traffic_delays">Gecikme yok</string>
+    <string name="msdkui_none">Hiçbiri</string>
+    <string name="msdkui_number_of_trailers">Römorklar</string>
+    <string name="msdkui_ok">Tamam</string>
+    <string name="msdkui_optimal">En iyi</string>
+    <string name="msdkui_options">Seçenekler</string>
+    <string name="msdkui_organic">Organik</string>
+    <string name="msdkui_other">Diğer</string>
+    <string name="msdkui_pedestrian">Yürüyüş</string>
+    <string name="msdkui_poison">Zehirli</string>
+    <string name="msdkui_poisonous">Toksik inhaler ajan</string>
+    <string name="msdkui_radioactive">Radyoaktif</string>
+    <string name="msdkui_remove">Kaldır</string>
+    <string name="msdkui_remove_waypoint">Ara noktayı kaldır</string>
+    <string name="msdkui_remove_waypoint_button">%1$d dizinindeki ara nokta düğmesini kaldırın</string>
+    <string name="msdkui_route_results_title">Rotalar</string>
+    <string name="msdkui_route_type_title">Rota türü</string>
+    <string name="msdkui_routing_options_title">Rota seçenekleri</string>
+    <string name="msdkui_rp_from">Başlangıç: %1$s</string>
+    <string name="msdkui_rp_to">Hedef: %1$s</string>
+    <string name="msdkui_rp_via">Üzrndn</string>
+    <string name="msdkui_scooter">Scooter</string>
+    <string name="msdkui_seconds">%1$d sn</string>
+    <string name="msdkui_selected">Seçildi</string>
+    <string name="msdkui_set">Ayarla</string>
+    <string name="msdkui_shortest">En kısa</string>
+    <string name="msdkui_speed">Hız</string>
+    <string name="msdkui_speed_limit">Hız sınırı</string>
+    <string name="msdkui_tab_icon">Sekme simgesi</string>
+    <string name="msdkui_traffic">Trafikten kaçının</string>
+    <string name="msdkui_traffic_blocked">Kapalı</string>
+    <string name="msdkui_transport_mode">Ulaşım türü: %1$s</string>
+    <string name="msdkui_truck">Kamyon</string>
+    <string name="msdkui_truck_options_title">Kamyon seçenekleri</string>
+    <string name="msdkui_truck_type">Kamyon türü</string>
+    <string name="msdkui_truck_type_tractor">Tır</string>
+    <string name="msdkui_truck_type_truck">Kamyon/Kamyonet</string>
+    <string name="msdkui_tunnel_cat_b">Kategori B</string>
+    <string name="msdkui_tunnel_cat_c">Kategori C</string>
+    <string name="msdkui_tunnel_cat_d">Kategori D</string>
+    <string name="msdkui_tunnel_cat_e">Kategori E</string>
+    <string name="msdkui_tunnels_allowed_title">Tünellere izin verildi</string>
+    <string name="msdkui_undefined">Tanımlı değil</string>
+    <string name="msdkui_unit_foot">ft</string>
+    <string name="msdkui_unit_kilometer">km</string>
+    <string name="msdkui_unit_km_per_h">km/s</string>
+    <string name="msdkui_unit_meter">m</string>
+    <string name="msdkui_unit_mile">mi</string>
+    <string name="msdkui_unit_miles_per_hour">mi/h</string>
+    <string name="msdkui_unit_yard">yd</string>
+    <string name="msdkui_userposition_search">Konumunuz alınıyor</string>
+    <string name="msdkui_violate_truck_options">Kamyon seçeneklerini yok say</string>
+    <string name="msdkui_waypoint_current_location">Mevcut konum</string>
+    <string name="msdkui_waypoint_select_location">Ara nokta seçin</string>
+    <string name="msdkui_weight_per_axle">Aks başına ağırlık</string>
+    <string name="msdkui_width">Genişlik</string>
+    <string name="mtrl_badge_numberless_content_description">Yeni bildirim</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s içeriğini kaldır</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">%1$d adetten fazla yeni bildirim</string>
+    <string name="mtrl_picker_a11y_next_month">Sonraki aya değiştir</string>
+    <string name="mtrl_picker_a11y_prev_month">Önceki aya değiştir</string>
+    <string name="mtrl_picker_announce_current_selection">Geçerli seçim: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Tarih Seçin</string>
+    <string name="mtrl_picker_date_header_unselected">Seçilen tarih</string>
+    <string name="mtrl_picker_day_of_week_column_header">Gün sütunu: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Geçersiz biçim.</string>
+    <string name="mtrl_picker_invalid_format_example">Örnek: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Tarih biçimi: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Geçersiz aralık.</string>
+    <string name="mtrl_picker_navigate_to_year_description">%1$s yılına git</string>
+    <string name="mtrl_picker_out_of_range">İzin verilen aralığın dışında: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Başlangıç tarihi – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Bitiş tarihi</string>
+    <string name="mtrl_picker_range_header_selected">%1$s-%2$s</string>
+    <string name="mtrl_picker_range_header_title">Aralık Seçin</string>
+    <string name="mtrl_picker_range_header_unselected">Başlangıç tarihi - Bitiş tarihi</string>
+    <string name="mtrl_picker_save">Kaydet</string>
+    <string name="mtrl_picker_text_input_date_hint">Tarih</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Bitiş tarihi</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Başlangıç tarihi</string>
+    <string name="mtrl_picker_text_input_day_abbr">g</string>
+    <string name="mtrl_picker_text_input_month_abbr">a</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Takvim giriş moduna geç</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Gün seçmeye geçmek için dokunun</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Metin giriş moduna geç</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Yıl seçmeye geçmek için dokunun</string>
+    <string name="password_toggle_content_description">Şifreyi göster</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Ara"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

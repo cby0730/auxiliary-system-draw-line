@@ -1,0 +1,1194 @@
+[
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_national_hw_2.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_national_hw_2.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_traffic_sign_type_32.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/traffic_sign_type_32.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_3c.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_3c.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_14b.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_14b.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_walk_24.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_walk_24.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_fiber_manual_record_red_24dp.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_fiber_manual_record_red_24dp.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_9d.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_9d.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_traffic_sign_alert.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/traffic_sign_alert.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/layout_travel_time_picker.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/layout/travel_time_picker.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_traffic_sign_blank_black.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/traffic_sign_blank_black.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/layout_tab_view.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/layout/tab_view.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_car_position_marker.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_car_position_marker.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_navigator.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/mipmap-anydpi-v26/ic_navigator.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_navigator.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/mipmap-mdpi/ic_navigator.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_61.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_61.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_current_speed_bg_item.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/current_speed_bg_item.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_74a.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_74a.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_collapse.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_collapse.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_grad.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/grad.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_national_hw_3.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_national_hw_3.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_plus.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_plus.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_3b.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_3b.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_62.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_62.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_snake_day.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_snake_day.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_14a.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_14a.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_2f.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_2f.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_route_end.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_route_end.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_37.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_37.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_navigator.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/mipmap-xxxhdpi/ic_navigator.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_9c.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_9c.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_bird_night.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_bird_night.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_traffic_sign_type_23.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/traffic_sign_type_23.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_gps_fixed_white_24dp.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_gps_fixed_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_traffic_sign_type_1.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/traffic_sign_type_1.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_10.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_10.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_traffic_sign_type_30.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/traffic_sign_type_30.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_2g.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_2g.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_9b.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_9b.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_2d.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_2d.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_traffic_sign_type_22.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/traffic_sign_type_22.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable-land_current_speed_warning_bg_item.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable-land/current_speed_warning_bg_item.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/xml_network_security_config.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_national_hw_10.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_national_hw_10.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_5a.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_5a.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_1f.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_1f.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_satellite.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_satellite.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_reptile_day.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_reptile_day.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_blue_pin.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/blue_pin.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_list_item_divider.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/list_item_divider.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_39.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_39.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_192.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_192.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_navigator_round.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/mipmap-mdpi/ic_navigator_round.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_64.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_64.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_64.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_64.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_navigator_round.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/mipmap-anydpi-v26/ic_navigator_round.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_129.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_129.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_gps_off_white_24dp.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_gps_off_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_29.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_29.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_traffic_sign_type_18.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/traffic_sign_type_18.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_mammal_night.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_mammal_night.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_131.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_131.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_directions_car_white_32dp.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_directions_car_white_32dp.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_scooter.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_scooter.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_traffic_sign_type_15.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/traffic_sign_type_15.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_9e.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_9e.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_3a.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_3a.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_traffic_sign_type_13.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/traffic_sign_type_13.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_19a.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_19a.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_12.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_12.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_edittext_background.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/edittext_background.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_2b.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_2b.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_pin.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_pin.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_1d.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_1d.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_section_bar_layer_rounded.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/section_bar_layer_rounded.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_2.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_2.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_round_button_off.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/round_button_off.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_settings_time_24.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_settings_time_24.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_national_hw_2a.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_national_hw_2a.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_national_hw_5.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_national_hw_5.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_red_pin.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/red_pin.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/raw_arrow_new.mtl.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/raw/arrow_new.mtl"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_72.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_72.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_traffic_sign_type_7.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/traffic_sign_type_7.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/raw_arrow_new_obj.obj.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/raw/arrow_new_obj.obj"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_26.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_26.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_2.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_2.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_11.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_11.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_traffic_sign_type_59.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/traffic_sign_type_59.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_turtle_day.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_turtle_day.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_round_button_on.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/round_button_on.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_tools_and_utensils.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_tools_and_utensils.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/layout_guidance_next_maneuver_panel.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/layout/guidance_next_maneuver_panel.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_route_start.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_route_start.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_traffic_sign_type_20.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/traffic_sign_type_20.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_18.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_18.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_2113.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_2113.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_14d.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_14d.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_20.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_20.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_65.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_65.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_traffic_sign_type_42.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/traffic_sign_type_42.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_13a.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_13a.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_78.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_78.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_62a.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_62a.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_2c.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_2c.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_snake_night.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_snake_night.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_2049.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_2049.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_drive.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_drive.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_80.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_80.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_25.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_25.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_mammal_day.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_mammal_day.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_10b.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_10b.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_small_vertical_divider.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_small_vertical_divider.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_national_hw_4.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_national_hw_4.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_65.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_65.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_fiber_manual_record_dark_grey_24dp.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_fiber_manual_record_dark_grey_24dp.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_17.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_17.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/raw_hint.ogg.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/raw/hint.ogg"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_66.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_66.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_15a.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_15a.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_circular_target.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_circular_target.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_9a.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_9a.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_traffic_sign_type_19.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/traffic_sign_type_19.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_7.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_7.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_remove_circle_white_24dp.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_remove_circle_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_68a.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_68a.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_traffic_sign_type_14.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/traffic_sign_type_14.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_traffic_sign_type_41.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/traffic_sign_type_41.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_1e.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_1e.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_swap_list.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_swap_list.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_traffic_sign_type_27.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/traffic_sign_type_27.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_17a.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_17a.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_14c.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_14c.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_speed_limit_background.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/speed_limit_background.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_drag_listitem.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_drag_listitem.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_1.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_1.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_8192.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_8192.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_butterfly_day.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_butterfly_day.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_1.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_1.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_512.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_512.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable-land_current_speed_bg_item.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable-land/current_speed_bg_item.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_traffic_sign_type_34.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/traffic_sign_type_34.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_settings_route_24.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_settings_route_24.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_frog_night.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_frog_night.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_traffic_sign_type_21.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/traffic_sign_type_21.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_86.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_86.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_5.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_5.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/layout_numeric_option_item.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/layout/numeric_option_item.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_6.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_6.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_7a.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_7a.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_turtle_night.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_turtle_night.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/layout_single_option_item.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/layout/single_option_item.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_navigator.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/mipmap-xxhdpi/ic_navigator.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_reptile_night.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_reptile_night.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_17.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_17.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_68.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_68.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_61a.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_61a.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_23.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_23.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_navigator_round.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/mipmap-hdpi/ic_navigator_round.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_traffic_sign_blank.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/traffic_sign_blank.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_76.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_76.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_31.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_31.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_warning.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_warning.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_compass_bright.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/compass_bright.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_2053.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_2053.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_21a.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_21a.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_15.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_15.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_download.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_download.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_11a.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_11a.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_compass_dark.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/compass_dark.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_1a.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_1a.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_17b.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_17b.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_traffic_sign_type_9.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/traffic_sign_type_9.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_30.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_30.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/layout_transport_mode_panel.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/layout/transport_mode_panel.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_6.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_6.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_69.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_69.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_256.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_256.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_congestion.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_congestion.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_24.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_24.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_61b.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_61b.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_84.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_84.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_11b.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_11b.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_2052.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_2052.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_traffic_sign_type_10.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/traffic_sign_type_10.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_motorcycle_white_32dp.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_motorcycle_white_32dp.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_navigator_round.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/mipmap-xxhdpi/ic_navigator_round.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_navigator.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/mipmap-hdpi/ic_navigator.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/layout_guidance_maneuver_panel.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/layout/guidance_maneuver_panel.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_14.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_14.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_frog_day.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_frog_day.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_82.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_82.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_513.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_513.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_2048.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_2048.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_bike_24.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_bike_24.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_16.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_16.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_minimize_window.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_minimize_window.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_navigator.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/mipmap-xhdpi/ic_navigator.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_directions_bike_white_32dp.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_directions_bike_white_32dp.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_13.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_13.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/layout_travel_time_panel.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/layout/travel_time_panel.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_74.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_74.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/layout_boolean_option_item.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/layout/boolean_option_item.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_21.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_21.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_2056.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_2056.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_4096.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_4096.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_20a.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_20a.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable-v21_current_street_name_bg.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable-v21/current_street_name_bg.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_7b.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_7b.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_5.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_5.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_traffic_sign_type_12.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/traffic_sign_type_12.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_2a.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_2a.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_remove_listitem.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_remove_listitem.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_minus.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_minus.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_truck_24.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_truck_24.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_16.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_16.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_257.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_257.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/layout_waypoint_item.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/layout/waypoint_item.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_add_circle_white_24dp.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_add_circle_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_national_hw_8.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_national_hw_8.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/layout_maneuver_item.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/layout/maneuver_item.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_8.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_8.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/layout_spinner_row_item.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/layout/spinner_row_item.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_speed_camera.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_speed_camera.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_19.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_19.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_2112.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_2112.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_5b.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_5b.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_search_result.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_search_result.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_gps_not_fixed_white_24dp.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_gps_not_fixed_white_24dp.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/layout_route_description_item.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/layout/route_description_item.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_navigator_round.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/mipmap-xxxhdpi/ic_navigator_round.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_9.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_9.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_9.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_9.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/layout_guidance_arrival_info.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/layout/guidance_arrival_info.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_67.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_67.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_transparent_24px.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/transparent_24px.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_butterfly_night.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_butterfly_night.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_63a.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_63a.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_dest.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_dest.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_88.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_88.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_orig.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_orig.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_crab_day.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_crab_day.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_traffic_sign_type_29.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/traffic_sign_type_29.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/layout_numeric_option_item_edittext.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/layout/numeric_option_item_edittext.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/layout_guidance_current_speed_panel.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/layout/guidance_current_speed_panel.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_1c.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_1c.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_arrow_point_to_down.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_arrow_point_to_down.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_130.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_130.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/layout_multiple_option_item.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/layout/multiple_option_item.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_national_hw_6.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_national_hw_6.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_traffic_sign_type_36.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/traffic_sign_type_36.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_bird_day.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_bird_day.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_27.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_27.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_3.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_3.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_parking.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_parking.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/layout_guidance_speed_limit_panel.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/layout/guidance_speed_limit_panel.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_3.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_3.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_traffic_sign_type_6.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/traffic_sign_type_6.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_20b.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_20b.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_national_hw_3a.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_national_hw_3a.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_expande.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_expande.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_7c.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_7c.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_traffic_sign_type_11.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/traffic_sign_type_11.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_128.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_128.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_63.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_63.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/layout_guidance_current_street.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/layout/guidance_current_street.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_28.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_28.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_8a.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_8a.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_4.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_4.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/raw_beep_short.ogg.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/raw/beep_short.ogg"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_11c.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_11c.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_national_hw_7.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_national_hw_7.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_27a.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_27a.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_current_speed_bg.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/current_speed_bg.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_yellow_cab.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/yellow_cab.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_4.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_4.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_national_hw_1a.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_national_hw_1a.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_navigator_round.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/mipmap-xhdpi/ic_navigator_round.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_traffic_sign_type_31.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/traffic_sign_type_31.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_1b.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_1b.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_2e.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_2e.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_current_speed_warning_bg_item.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/current_speed_warning_bg_item.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_crab_night.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_crab_night.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_lane_dcm_68.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_lane_dcm_68.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_provincial_hw_22.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_provincial_hw_22.png"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_ic_directions_run_white_32dp.xml.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/ic_directions_run_white_32dp.xml"
+    },
+    {
+        "merged": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/build/intermediates/merged_res/debug/drawable_rt_icon_tw_national_hw_1.png.flat",
+        "source": "/Users/chen-bo-yo/Downloads/Navigation/FancyNavi-master/app/src/main/res/drawable/rt_icon_tw_national_hw_1.png"
+    }
+]

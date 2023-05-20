@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d neue Benachrichtigung</item>
+    <item quantity="other">%d neue Benachrichtigungen</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Zur Startseite"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Nach oben"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Weitere Optionen"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Fertig"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Alle anzeigen"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"App auswählen"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"AUS"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"AN"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Strg +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Löschen"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Eingabetaste"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funktionstaste +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta-Taste +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Umschalttaste +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Leertaste"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym-Taste +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menütaste +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Suchen…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Suchanfrage löschen"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Suchanfrage"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Suche"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Anfrage senden"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Sprachsuche"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Teilen mit"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Mit <ns1:g id="APPLICATION_NAME">%s</ns1:g> teilen"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Minimieren"</string>
+    <string name="bottomsheet_action_expand_halfway">Zur Hälfte maximieren</string>
+    <string name="character_counter_content_description">Eingegebene Zeichen: %1$d von %2$d</string>
+    <string name="character_counter_overflowed_content_description">Zeichenbeschränkung überschritten: %1$d/%2$d</string>
+    <string name="clear_text_end_icon_content_description">Text löschen</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Aktivieren"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> funktioniert erst nach der Aktivierung der Google Play-Dienste."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play-Dienste aktivieren"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Installieren"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Zur Nutzung von <ns1:g id="APP_NAME">%1$s</ns1:g> sind die Google Play-Dienste erforderlich, die auf deinem Gerät nicht installiert sind."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play-Dienste installieren"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Verfügbarkeit von Google Play-Diensten"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Fehler bei Zugriff auf Google Play-Dienste"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> hat Probleme mit Google Play-Diensten. Bitte versuche es noch einmal."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Zur Nutzung von <ns1:g id="APP_NAME">%1$s</ns1:g> sind Google Play-Dienste erforderlich, die auf deinem Gerät nicht unterstützt werden."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Aktualisieren"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> wird nur ausgeführt, wenn du die Google Play-Dienste aktualisierst."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play-Dienste aktualisieren"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Zur Nutzung von <ns1:g id="APP_NAME">%1$s</ns1:g> sind Google Play-Dienste erforderlich, die gerade aktualisiert werden."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Eine neue Version der Google Play-Dienste wird benötigt. Diese wird in Kürze automatisch aktualisiert."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Auf Smartphone öffnen"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Anmelden"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Über Google anmelden"</string>
+    <string name="error_icon_content_description">Fehler</string>
+    <string name="exposed_dropdown_menu_content_description">Drop-down-Menü anzeigen</string>
+    <string name="icon_content_description">Dialogfeldsymbol</string>
+    <string name="item_view_role_description">Tab</string>
+    <string name="material_clock_toggle_content_description">Vormittags oder Nachmittags auswählen</string>
+    <string name="material_hour_selection">Stunde auswählen</string>
+    <string name="material_hour_suffix">%1$s Uhr</string>
+    <string name="material_minute_selection">Minuten auswählen</string>
+    <string name="material_minute_suffix">%1$s Minuten</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">In den Uhrzeitmodus wechseln, um die Uhrzeit einzugeben.</string>
+    <string name="material_timepicker_hour">Stunde</string>
+    <string name="material_timepicker_minute">Minute</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Uhrzeit auswählen</string>
+    <string name="material_timepicker_text_input_mode_description">In den Texteingabemodus wechseln, um die Uhrzeit einzugeben.</string>
+    <string name="msdkui_allow_car_pool">Straßen mit Fahrgemeinschaftsspuren zulassen</string>
+    <string name="msdkui_allow_car_shuttle">Autoreisezüge zulassen</string>
+    <string name="msdkui_allow_dirt_roads">Unbefestigte Straßen zulassen</string>
+    <string name="msdkui_allow_ferries">Fähren zulassen</string>
+    <string name="msdkui_allow_highways">Autobahnen zulassen</string>
+    <string name="msdkui_allow_parks">Parks zulassen</string>
+    <string name="msdkui_allow_toll_roads">Mautstraßen zulassen</string>
+    <string name="msdkui_allow_tunnels">Tunnel zulassen</string>
+    <string name="msdkui_arrive">Ankunft</string>
+    <string name="msdkui_arrive_at">Ankunft</string>
+    <string name="msdkui_avoid_long_term_closures">Größere Sperrungen vermeiden</string>
+    <string name="msdkui_balanced">Optimal</string>
+    <string name="msdkui_bike">Fahrrad</string>
+    <string name="msdkui_cancel">Abbrechen</string>
+    <string name="msdkui_car">Auto</string>
+    <string name="msdkui_combustible">Entflammbare Stoffe</string>
+    <string name="msdkui_corrosive">Ätzende Stoffe</string>
+    <string name="msdkui_days">%1$d Tg.</string>
+    <string name="msdkui_days_hours">%1$d Tg. %2$d Std.</string>
+    <string name="msdkui_depart">Abfahrt</string>
+    <string name="msdkui_depart_at">Abfahrt</string>
+    <string name="msdkui_disable">Ausschalten</string>
+    <string name="msdkui_disabled">Aus</string>
+    <string name="msdkui_done">Fertig</string>
+    <string name="msdkui_drag_waypoint">Wegpunkt ziehen</string>
+    <string name="msdkui_drag_waypoint_button">Schaltfläche Wegpunkt ziehen im Verzeichnis %1$d</string>
+    <string name="msdkui_duration">Dauer</string>
+    <string name="msdkui_enabled">Ein</string>
+    <string name="msdkui_estimated_arrival">Geschätzte Ankunft</string>
+    <string name="msdkui_explosive">Explosivstoffe</string>
+    <string name="msdkui_fastest">Schnellste</string>
+    <string name="msdkui_flammable">Entzündliche Stoffe</string>
+    <string name="msdkui_gas">Gas</string>
+    <string name="msdkui_harmful_to_water">Wassergefährdende Stoffe</string>
+    <string name="msdkui_hazardous_materials_title">Gefahrgut</string>
+    <string name="msdkui_height">Höhe</string>
+    <string name="msdkui_hours">%1$d Std.</string>
+    <string name="msdkui_hours_minutes">%1$d Std. %2$d Min.</string>
+    <string name="msdkui_incl">Einschl.</string>
+    <string name="msdkui_incl_traffic_delay">Einschl. %1$s Verspätung</string>
+    <string name="msdkui_including">Einschließlich</string>
+    <string name="msdkui_length">Länge</string>
+    <string name="msdkui_limited_weight">Gewichtsbeschränkung</string>
+    <string name="msdkui_maneuver_arrive_at_02y">Ankunft</string>
+    <string name="msdkui_maneuver_continue">Weiter geradeaus</string>
+    <string name="msdkui_maneuver_end">Sie sind am Ziel</string>
+    <string name="msdkui_maneuver_enter_car_shuttle_train">Autoreisezug nutzen</string>
+    <string name="msdkui_maneuver_enter_ferry">Nehmen Sie die Fähre</string>
+    <string name="msdkui_maneuver_enter_highway">Fahren Sie auf die Autobahn</string>
+    <string name="msdkui_maneuver_exit">Ausfahrt %1$s</string>
+    <string name="msdkui_maneuver_exit_directions_towards">%1$s in Richtung %2$s</string>
+    <string name="msdkui_maneuver_head_to">Richtung %1$s</string>
+    <string name="msdkui_maneuver_leave_highway">Nehmen Sie die Ausfahrt</string>
+    <string name="msdkui_maneuver_orientation_east">Osten</string>
+    <string name="msdkui_maneuver_orientation_north">Norden</string>
+    <string name="msdkui_maneuver_orientation_north_east">Nordosten</string>
+    <string name="msdkui_maneuver_orientation_north_west">Nordwesten</string>
+    <string name="msdkui_maneuver_orientation_south">Süden</string>
+    <string name="msdkui_maneuver_orientation_south_east">Südosten</string>
+    <string name="msdkui_maneuver_orientation_south_west">Südwesten</string>
+    <string name="msdkui_maneuver_orientation_west">Westen</string>
+    <string name="msdkui_maneuver_pt_change">Umsteigen</string>
+    <string name="msdkui_maneuver_pt_change_at">Umsteigen bei %1$s</string>
+    <string name="msdkui_maneuver_pt_get_on_here">Einsteigen</string>
+    <string name="msdkui_maneuver_pt_stopover">Wegpunkt</string>
+    <string name="msdkui_maneuver_pt_travel_start">Verkehrsmittel: %1$s</string>
+    <string name="msdkui_maneuver_pt_walk">Gehen</string>
+    <string name="msdkui_maneuver_road_name_divider">%1$s/%2$s</string>
+    <string name="msdkui_maneuver_turn_keep_left">Links halten</string>
+    <string name="msdkui_maneuver_turn_keep_middle">Nehmen Sie die mittlere Straße</string>
+    <string name="msdkui_maneuver_turn_keep_right">Rechts halten</string>
+    <string name="msdkui_maneuver_turn_left">Links abbiegen</string>
+    <string name="msdkui_maneuver_turn_right">Rechts abbiegen</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_1">Nehmen Sie die 1. Ausfahrt</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_10">Nehmen Sie die 10. Ausfahrt</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_11">Nehmen Sie die 11. Ausfahrt</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_12">Nehmen Sie die 12. Ausfahrt</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_2">Nehmen Sie die 2. Ausfahrt</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_3">Nehmen Sie die 3. Ausfahrt</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_4">Nehmen Sie die 4. Ausfahrt</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_5">Nehmen Sie die 5. Ausfahrt</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_6">Nehmen Sie die 6. Ausfahrt</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_7">Nehmen Sie die 7. Ausfahrt</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_8">Nehmen Sie die 8. Ausfahrt</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_9">Nehmen Sie die 9. Ausfahrt</string>
+    <string name="msdkui_maneuver_turn_sharply_left">Scharf links abbiegen</string>
+    <string name="msdkui_maneuver_turn_sharply_right">Scharf rechts abbiegen</string>
+    <string name="msdkui_maneuver_turn_slightly_left">Leicht nach links abbiegen</string>
+    <string name="msdkui_maneuver_turn_slightly_right">Leicht nach rechts abbiegen</string>
+    <string name="msdkui_maneuver_uturn">Machen Sie eine Kehrtwendung</string>
+    <string name="msdkui_maneuverpanel_nodata">Folgen Sie der Route auf der Karte</string>
+    <string name="msdkui_maneuverpanel_updating">Wird aktualisiert</string>
+    <string name="msdkui_minutes">%1$d Min.</string>
+    <string name="msdkui_next_maneuver">Nächste Fahranweisung</string>
+    <string name="msdkui_no_traffic_delays">Keine Verspätung</string>
+    <string name="msdkui_none">Keine</string>
+    <string name="msdkui_number_of_trailers">Anhänger</string>
+    <string name="msdkui_ok">OK</string>
+    <string name="msdkui_optimal">Beste</string>
+    <string name="msdkui_options">Optionen</string>
+    <string name="msdkui_organic">Biologische Gefahrstoffe</string>
+    <string name="msdkui_other">Sonstige</string>
+    <string name="msdkui_pedestrian">Zu Fuß</string>
+    <string name="msdkui_poison">Giftige Stoffe</string>
+    <string name="msdkui_poisonous">Giftige Gase</string>
+    <string name="msdkui_radioactive">Radioaktive Stoffe</string>
+    <string name="msdkui_remove">Entfernen</string>
+    <string name="msdkui_remove_waypoint">Wegpunkt entfernen</string>
+    <string name="msdkui_remove_waypoint_button">Schaltfläche Wegpunkt entfernen im Verzeichnis %1$d</string>
+    <string name="msdkui_route_results_title">Routen</string>
+    <string name="msdkui_route_type_title">Routentyp</string>
+    <string name="msdkui_routing_options_title">Routenoptionen</string>
+    <string name="msdkui_rp_from">Von: %1$s</string>
+    <string name="msdkui_rp_to">Nach: %1$s</string>
+    <string name="msdkui_rp_via">Über</string>
+    <string name="msdkui_scooter">Roller</string>
+    <string name="msdkui_seconds">%1$d Sek.</string>
+    <string name="msdkui_selected">Ausgewählt</string>
+    <string name="msdkui_set">Festlegen</string>
+    <string name="msdkui_shortest">Kürzeste</string>
+    <string name="msdkui_speed">Geschwindigkeit</string>
+    <string name="msdkui_speed_limit">Tempolimit</string>
+    <string name="msdkui_tab_icon">Registerkartensymbol</string>
+    <string name="msdkui_traffic">Staus vermeiden</string>
+    <string name="msdkui_traffic_blocked">Gesperrt</string>
+    <string name="msdkui_transport_mode">Transportmittel: %1$s</string>
+    <string name="msdkui_truck">Lkw</string>
+    <string name="msdkui_truck_options_title">Optionen für Lkw</string>
+    <string name="msdkui_truck_type">Lkw-Typ</string>
+    <string name="msdkui_truck_type_tractor">Sattelschlepper</string>
+    <string name="msdkui_truck_type_truck">Lkw</string>
+    <string name="msdkui_tunnel_cat_b">Kategorie B</string>
+    <string name="msdkui_tunnel_cat_c">Kategorie C</string>
+    <string name="msdkui_tunnel_cat_d">Kategorie D</string>
+    <string name="msdkui_tunnel_cat_e">Kategorie E</string>
+    <string name="msdkui_tunnels_allowed_title">Zulässige Tunnel</string>
+    <string name="msdkui_undefined">Nicht festgelegt</string>
+    <string name="msdkui_unit_foot">ft</string>
+    <string name="msdkui_unit_kilometer">km</string>
+    <string name="msdkui_unit_km_per_h">km/h</string>
+    <string name="msdkui_unit_meter">m</string>
+    <string name="msdkui_unit_mile">mi</string>
+    <string name="msdkui_unit_miles_per_hour">mi/h</string>
+    <string name="msdkui_unit_yard">yd</string>
+    <string name="msdkui_userposition_search">Standort wird ermittelt</string>
+    <string name="msdkui_violate_truck_options">Optionen für Lkw ignorieren</string>
+    <string name="msdkui_waypoint_current_location">Aktueller Standort</string>
+    <string name="msdkui_waypoint_select_location">Wegpunkt aussuchen</string>
+    <string name="msdkui_weight_per_axle">Gewicht pro Achse</string>
+    <string name="msdkui_width">Breite</string>
+    <string name="mtrl_badge_numberless_content_description">Neue Benachrichtigung</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s entfernen</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Mehr als %1$d neue Benachrichtigungen</string>
+    <string name="mtrl_picker_a11y_next_month">Zum nächsten Monat wechseln</string>
+    <string name="mtrl_picker_a11y_prev_month">Zum vorherigen Monat wechseln</string>
+    <string name="mtrl_picker_announce_current_selection">Aktuelle Auswahl: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Datum auswählen</string>
+    <string name="mtrl_picker_date_header_unselected">Ausgewähltes Datum</string>
+    <string name="mtrl_picker_day_of_week_column_header">Spalte \"Wochentag\": %1$s</string>
+    <string name="mtrl_picker_invalid_format">Ungültiges Format.</string>
+    <string name="mtrl_picker_invalid_format_example">Beispiel: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Format: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Ungültiger Bereich.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Zum Jahr %1$s wechseln</string>
+    <string name="mtrl_picker_out_of_range">Außerhalb des Bereichs: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Startdatum – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Enddatum</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Zeitraum auswählen</string>
+    <string name="mtrl_picker_range_header_unselected">Startdatum – Enddatum</string>
+    <string name="mtrl_picker_save">Speichern</string>
+    <string name="mtrl_picker_text_input_date_hint">Datum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Enddatum</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Startdatum</string>
+    <string name="mtrl_picker_text_input_day_abbr">T</string>
+    <string name="mtrl_picker_text_input_month_abbr">M</string>
+    <string name="mtrl_picker_text_input_year_abbr">J</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">In den Kalendereingabemodus wechseln</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tippen, um zur Tagesauswahl zu wechseln</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">In den Texteingabemodus wechseln</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tippen, um zur Jahresauswahl zu wechseln</string>
+    <string name="password_toggle_content_description">Passwort anzeigen</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Suche"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

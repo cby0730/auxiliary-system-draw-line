@@ -1,0 +1,40 @@
+Average validation accuracy for epoch # 0249 = 0.850869
+Average per class validation accuracies for epoch # 0249:
+Animal = 1.000000
+Archway = 0.930243
+Bicyclist = 0.840174
+Bridge = 1.000000
+Building = 0.857611
+Car = 0.849558
+CartLuggagePram = 0.845382
+Child = 0.938750
+Column_Pole = 0.564858
+Fence = 0.766919
+LaneMkgsDriv = 0.774690
+LaneMkgsNonDriv = 1.000000
+Misc_Text = 0.740776
+MotorcycleScooter = 1.000000
+OtherMoving = 0.912956
+ParkingBlock = 0.917630
+Pedestrian = 0.713723
+Road = 0.852095
+RoadShoulder = 1.000000
+Sidewalk = 0.901015
+SignSymbol = 0.599758
+Sky = 0.935503
+SUVPickupTruck = 0.854248
+TrafficCone = 1.000000
+TrafficLight = 0.847045
+Train = 1.000000
+Tree = 0.877368
+Truck_Bus = 0.859636
+Tunnel = 1.000000
+VegetationMisc = 0.923697
+Void = 0.468749
+Wall = 0.866413
+Validation precision =  0.8609859913254828
+Validation recall =  0.8508685302734376
+Validation F1 score =  0.8452019105893276
+Validation IoU score =  0.5231067737760038
+[2022-09-03 17:37:56] Remaining training time : Training completed.
+

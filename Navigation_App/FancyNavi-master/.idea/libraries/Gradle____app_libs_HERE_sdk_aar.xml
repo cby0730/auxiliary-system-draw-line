@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/HERE-sdk.aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/624659073c43ac60e7353a9d42e7f423/transformed/jetified-HERE-sdk/res" />
+      <root url="file://$PROJECT_DIR$/../../mapbox-navigation-android-2.5.1/caches/transforms-3/b8bf1fd4c0b690a0d5831fc54b31e466/transformed/jetified-HERE-sdk/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../mapbox-navigation-android-2.5.1/caches/transforms-3/b8bf1fd4c0b690a0d5831fc54b31e466/transformed/jetified-HERE-sdk/res" />
+      <root url="jar://$PROJECT_DIR$/../../mapbox-navigation-android-2.5.1/caches/transforms-3/b8bf1fd4c0b690a0d5831fc54b31e466/transformed/jetified-HERE-sdk/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

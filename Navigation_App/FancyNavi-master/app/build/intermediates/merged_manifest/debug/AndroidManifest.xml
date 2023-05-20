@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.fancynavi.android.app"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="26"
+        android:targetSdkVersion="30" />
+
+    <!-- For apps that interact with a text-to-speech (TTS) engine need to add the following queries element to their manifest files for devices running Android 11 or higher -->
+    <queries>
+        <intent>
+            <action android:name="android.intent.action.TTS_SERVICE" />
+        </intent>
+    </queries>
+
+    <uses-permission
+        android:name="android.permission.READ_PHONE_STATE"
+        android:maxSdkVersion="22" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <!-- To allow starting foreground services on Android P+ -->
+    <!-- https://developer.android.com/preview/behavior-changes#fg-svc -->
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:fullBackupContent="true"
+        android:icon="@mipmap/ic_navigator"
+        android:label="FancyNavi"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/MSDKUIDarkTheme" >
+        <activity
+            android:name="com.fancynavi.android.app.MainActivity"
+            android:configChanges="screenSize|smallestScreenSize|screenLayout|orientation"
+            android:launchMode="singleTask"
+            android:resizeableActivity="true"
+            android:screenOrientation="fullSensor"
+            android:supportsPictureInPicture="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="fancynavi.com"
+                    android:scheme="http" />
+            </intent-filter>
+
+            <layout
+                android:defaultHeight="500dp"
+                android:defaultWidth="600dp"
+                android:gravity="top|end" />
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.actions"
+            android:resource="@xml/network_security_config" />
+        <!--
+Developers should put application credentials here.To obtain them, please register the application
+         at https://developer.here.com/develop/mobile-sdks
+        -->
+        <!-- <meta-data -->
+        <!-- android:name="com.here.android.maps.appid" -->
+        <!-- android:value="MdgrnOU2OsdYuPbPNz2t" /> -->
+        <!-- <meta-data -->
+        <!-- android:name="com.here.android.maps.apptoken" -->
+        <!-- android:value="jeXznopbGvE8KRhVK3wkMw" /> -->
+        <!-- <meta-data -->
+        <!-- android:name="com.here.android.maps.license.key" -->
+        <!-- android:value="UPTaWVOoRFajEFCEsbKeU90tlM+YxolaCWOX8pRWgNq9JVXegK83ohjN7ou/ix1kisqafUQ0/L1vTu0tXpN8V01n31OSmVp9ZWpWIILLc5sQTDKSewAMmmIoYAOd54Zf336wAuK9daZvrK3i4aDnHRrF0m81inch8cRxjTetOYWX4CFDyRXpsxbfvokFZTFoABIWs2GkBTBNXgwOS6o701o/5/ehvs9cjWttI/qSuUZAWD8wjEmtP0INaal6AlQpis5Bmm4cwl4z8qGM6gy2j+pZsEo9M41PAIgPwSDOgMdBqpUJwHjsN1uFEOCSYteAKBZXMX91JyPy670qc1jVBzv9EIDTnaleTr1xKJDDLhL7TmrJeXqMLiKPqjfcIXQhlwp4GIr5V4Hs9WF17aep49+YQgqr61WUZ5gPSGryeavV6zUMhZujZ9cXM0BPga+OHjuGgVk323XQBvOZhV9LQVx3FDpNbMk0NO4GhUfnQMxWKdVYygEN8EAUJw8e6gxDAMgxGy33wIWvKhZG1PTf/3DR/vyo1ywEQKftrdXCruf4mSVtzIB8DnPJvZ4vamxbf9vZQoT4DZbTYZxWiDlqws82GRQq687rek/mosA1Uq0nUgPMT4y9PpePuXQ78zVY3ttKF0wWpzh6jMSa6buBeKr/hszJlbqersym64V6cSU=" /> -->
+        <!--
+Developers should always provide custom values for each of {YOUR_LABEL_NAME} and {YOUR_INTENT_NAME}.
+        Do not reuse HERE SDK defaults.
+        -->
+        <meta-data
+            android:name="INTENT_NAME"
+            android:value="FancyNaviAndroid" />
+
+        <!-- Deprecated from 3.16 -->
+        <!-- <service -->
+        <!-- android:name="com.here.android.mpa.service.MapService" -->
+        <!-- android:label="HereMapService" -->
+        <!-- android:exported="false" -->
+        <!-- android:process="global.Here.Map.Service.v3"> -->
+        <!-- <intent-filter> -->
+        <!-- &lt;!&ndash;Note, action name should not be changed.&ndash;&gt; -->
+        <!-- <action android:name="com.here.android.mpa.service.MapService.v3" /> -->
+        <!-- </intent-filter> -->
+        <!-- </service> -->
+
+
+        <!-- HERE advanced positioning. -->
+        <service
+            android:name="com.here.services.internal.LocationService"
+            android:enabled="true"
+            android:exported="false"
+            android:process=":remote" />
+        <service android:name="com.fancynavi.android.app.ForegroundService" />
+        <service
+            android:name="com.nokia.maps.MapServiceInternal"
+            android:exported="false" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

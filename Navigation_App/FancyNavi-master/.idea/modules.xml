@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FancyNavi-master.iml" filepath="$PROJECT_DIR$/.idea/modules/FancyNavi-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FancyNavi-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FancyNavi-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FancyNavi-master.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FancyNavi-master.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FancyNavi-master.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FancyNavi-master.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FancyNavi-master.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FancyNavi-master.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Navigation(S&amp;C).server.FancyNavi-master.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Navigation(S&amp;C).server.FancyNavi-master.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Navigation(S&amp;C).server.FancyNavi-master.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Navigation(S&amp;C).server.FancyNavi-master.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Navigation(S&amp;C).server.FancyNavi-master.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Navigation(S&amp;C).server.FancyNavi-master.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Navigation.FancyNavi-master.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Navigation.FancyNavi-master.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Navigation.FancyNavi-master.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Navigation.FancyNavi-master.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Navigation.FancyNavi-master.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Navigation.FancyNavi-master.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Proposal.Navigation(S&amp;C).server.FancyNavi-master.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Proposal.Navigation(S&amp;C).server.FancyNavi-master.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Proposal.Navigation(S&amp;C).server.FancyNavi-master.app.androidTest~1.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Proposal.Navigation(S&amp;C).server.FancyNavi-master.app.androidTest~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Proposal.Navigation(S&amp;C).server.FancyNavi-master.app.androidTest~2.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Proposal.Navigation(S&amp;C).server.FancyNavi-master.app.androidTest~2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Proposal.Navigation(S&amp;C).server.FancyNavi-master.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Proposal.Navigation(S&amp;C).server.FancyNavi-master.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Proposal.Navigation(S&amp;C).server.FancyNavi-master.app.main~1.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Proposal.Navigation(S&amp;C).server.FancyNavi-master.app.main~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Proposal.Navigation(S&amp;C).server.FancyNavi-master.app.main~2.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Proposal.Navigation(S&amp;C).server.FancyNavi-master.app.main~2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Proposal.Navigation(S&amp;C).server.FancyNavi-master.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Proposal.Navigation(S&amp;C).server.FancyNavi-master.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Proposal.Navigation(S&amp;C).server.FancyNavi-master.app.unitTest~1.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Proposal.Navigation(S&amp;C).server.FancyNavi-master.app.unitTest~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Proposal.Navigation(S&amp;C).server.FancyNavi-master.app.unitTest~2.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Proposal.Navigation(S&amp;C).server.FancyNavi-master.app.unitTest~2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/server.FancyNavi-master.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/server.FancyNavi-master.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/server.FancyNavi-master.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/server.FancyNavi-master.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/server.FancyNavi-master.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/server.FancyNavi-master.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

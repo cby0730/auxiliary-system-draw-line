@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d नई सूचनाएं</item>
+    <item quantity="other">%d नई सूचनाएं</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"होम पेज पर जाएं"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"वापस जाएं"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"ज़्यादा विकल्प"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"हो गया"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"सभी देखें"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"कोई ऐप्लिकेशन चुनें"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"बंद"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"चालू"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"खोजें…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"क्‍वेरी हटाएं"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"सर्च क्वेरी"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"खोजें"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"क्वेरी सबमिट करें"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"बोलकर खोजें"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"इससे शेयर करें:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> से शेयर करें"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"छोटा करें"</string>
+    <string name="bottomsheet_action_expand_halfway">पूरी तरह बड़ा करें</string>
+    <string name="character_counter_content_description">%2$d वर्णों में से %1$d वर्ण दर्ज किए गए</string>
+    <string name="character_counter_overflowed_content_description">अभी %1$d वर्ण हैं जबकि %2$d से ज़्यादा नहीं होने चाहिए</string>
+    <string name="clear_text_end_icon_content_description">टेक्स्ट मिटाएं</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"चालू करें"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"जब तक आप Google Play सेवाएं चालू नहीं करते, <ns1:g id="APP_NAME">%1$s</ns1:g> काम नहीं करेगा."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play सेवाएं चालू करें"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"इंस्टॉल करें"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> उन Google Play सेवाओं के बिना नहीं चलेगा जो आपके डिवाइस में उपलब्ध नहीं हैं."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play सेवाएं इंस्टॉल करें"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Google Play सेवाएं उपलब्ध हैं"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play सेवाओं से जुड़ी गड़बड़ी"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> को Google Play सेवाओं के साथ समस्या आ रही है. कृपया फिर से कोशिश करें."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> उन Google Play सेवाओं के बिना नहीं चलेगा, जो आपके डिवाइस पर काम नहीं करती हैं."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"अपडेट करें"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> तब तक नहीं चलेगा जब तक आप Google Play सेवाओं को अपडेट नहीं करते."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play सेवाओं को अपडेट करें"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> उन Google Play सेवाओं के बिना नहीं चलेगा जो अभी अपडेट हो रही हैं."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Google Play सेवाओं के नए वर्शन की ज़रूरत है. यह जल्द ही अपने आप अपडेट हो जाएगा."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"फ़ोन पर खोलें"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"साइन इन करें"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Google के ज़रिए साइन इन करें"</string>
+    <string name="error_icon_content_description">गड़बड़ी</string>
+    <string name="exposed_dropdown_menu_content_description">ड्रॉपडाउन मेन्यू दिखाएं</string>
+    <string name="icon_content_description">डायलॉग का आइकॉन</string>
+    <string name="item_view_role_description">टैब</string>
+    <string name="material_clock_toggle_content_description">AM या PM चुनें</string>
+    <string name="material_hour_selection">घंटा चुनें</string>
+    <string name="material_hour_suffix">%1$s बजे</string>
+    <string name="material_minute_selection">मिनट चुनें</string>
+    <string name="material_minute_suffix">%1$s मिनट</string>
+    <string name="material_timepicker_am">पूर्वाह्न</string>
+    <string name="material_timepicker_clock_mode_description">समय इनपुट के लिए घड़ी मोड पर जाएं.</string>
+    <string name="material_timepicker_hour">घंटा</string>
+    <string name="material_timepicker_minute">मिनट</string>
+    <string name="material_timepicker_pm">अपराह्न</string>
+    <string name="material_timepicker_select_time">समय चुनें</string>
+    <string name="material_timepicker_text_input_mode_description">समय इनपुट के लिए लेख इनपुट मोड पर जाएं.</string>
+    <string name="msdkui_allow_car_pool">कारपूल की अनुमति दें</string>
+    <string name="msdkui_allow_car_shuttle">कार शटल ट्रेन को अनुमति दें</string>
+    <string name="msdkui_allow_dirt_roads">कच्ची सड़कों की अनुमति दें</string>
+    <string name="msdkui_allow_ferries">नाव की अनुमति दें</string>
+    <string name="msdkui_allow_highways">मोटरवेज की अनुमति दें</string>
+    <string name="msdkui_allow_parks">पार्क करने की अनुमति दें</string>
+    <string name="msdkui_allow_toll_roads">टोल रोड की अनुमति दें</string>
+    <string name="msdkui_allow_tunnels">सुरंगों की अनुमति दें</string>
+    <string name="msdkui_arrive">पहुँचें</string>
+    <string name="msdkui_arrive_at">पहुँचें</string>
+    <string name="msdkui_avoid_long_term_closures">प्रमुख बंद सड़कों से बचें</string>
+    <string name="msdkui_balanced">संतुलित</string>
+    <string name="msdkui_bike">साइकिल</string>
+    <string name="msdkui_cancel">रद्द करें</string>
+    <string name="msdkui_car">कार</string>
+    <string name="msdkui_combustible">दहनशील</string>
+    <string name="msdkui_corrosive">संक्षारक</string>
+    <string name="msdkui_days">%1$d दिन</string>
+    <string name="msdkui_days_hours">%1$d दिन %2$d घंटे</string>
+    <string name="msdkui_depart">छोड़ें</string>
+    <string name="msdkui_depart_at">छोड़ें</string>
+    <string name="msdkui_disable">बंद करें</string>
+    <string name="msdkui_disabled">बंद</string>
+    <string name="msdkui_done">पूर्ण</string>
+    <string name="msdkui_drag_waypoint">वे-पॉइंट खीचें</string>
+    <string name="msdkui_drag_waypoint_button">इंडेक्स %1$d पर वे-प्वॉइंट बटन खीचें</string>
+    <string name="msdkui_duration">अवधि</string>
+    <string name="msdkui_enabled">चालू</string>
+    <string name="msdkui_estimated_arrival">अनुमानित आगमन</string>
+    <string name="msdkui_explosive">विस्फोटक</string>
+    <string name="msdkui_fastest">सबसे तेज़</string>
+    <string name="msdkui_flammable">ज्वलनशील</string>
+    <string name="msdkui_gas">गैस</string>
+    <string name="msdkui_harmful_to_water">जल प्रदूषक</string>
+    <string name="msdkui_hazardous_materials_title">हानिकारक सामग्री</string>
+    <string name="msdkui_height">ऊंचाई</string>
+    <string name="msdkui_hours">%1$d घंंटा</string>
+    <string name="msdkui_hours_minutes">%1$d घंटे %2$d मिनट</string>
+    <string name="msdkui_incl">समावेशन</string>
+    <string name="msdkui_incl_traffic_delay">%1$s विलंब शामिल</string>
+    <string name="msdkui_including">समावेशन</string>
+    <string name="msdkui_length">लंबाई</string>
+    <string name="msdkui_limited_weight">वज़न सीमा</string>
+    <string name="msdkui_maneuver_arrive_at_02y">पहुंचें</string>
+    <string name="msdkui_maneuver_continue">जारी रखें</string>
+    <string name="msdkui_maneuver_end">आप पहुंच गए हैं</string>
+    <string name="msdkui_maneuver_enter_car_shuttle_train">ट्रेन पर ड्राइव</string>
+    <string name="msdkui_maneuver_enter_ferry">फ़ेरी लें</string>
+    <string name="msdkui_maneuver_enter_highway">राजमार्ग पर चढ़ें</string>
+    <string name="msdkui_maneuver_exit">निकास %1$s</string>
+    <string name="msdkui_maneuver_exit_directions_towards">%1$s की ओर %2$s</string>
+    <string name="msdkui_maneuver_head_to">%1$s की ओर चलें</string>
+    <string name="msdkui_maneuver_leave_highway">बाहर निकलें</string>
+    <string name="msdkui_maneuver_orientation_east">पूर्व</string>
+    <string name="msdkui_maneuver_orientation_north">उत्तर</string>
+    <string name="msdkui_maneuver_orientation_north_east">उत्तर-पूर्व</string>
+    <string name="msdkui_maneuver_orientation_north_west">उत्तर-पश्चिम</string>
+    <string name="msdkui_maneuver_orientation_south">दक्षिण</string>
+    <string name="msdkui_maneuver_orientation_south_east">दक्षिण-पूर्व</string>
+    <string name="msdkui_maneuver_orientation_south_west">दक्षिण-पश्चिम</string>
+    <string name="msdkui_maneuver_orientation_west">पश्चिम</string>
+    <string name="msdkui_maneuver_pt_change">बदलें</string>
+    <string name="msdkui_maneuver_pt_change_at">%1$s पर बदलें</string>
+    <string name="msdkui_maneuver_pt_get_on_here">सवार हो जाएं</string>
+    <string name="msdkui_maneuver_pt_stopover">वे-पॉइंट</string>
+    <string name="msdkui_maneuver_pt_travel_start">%1$s लें</string>
+    <string name="msdkui_maneuver_pt_walk">पैदल चलें</string>
+    <string name="msdkui_maneuver_road_name_divider">%1$s/%2$s</string>
+    <string name="msdkui_maneuver_turn_keep_left">बाईं ओर चले</string>
+    <string name="msdkui_maneuver_turn_keep_middle">बीच वाली गली पर चलें</string>
+    <string name="msdkui_maneuver_turn_keep_right">दाईं ओर चलें</string>
+    <string name="msdkui_maneuver_turn_left">बाएं मुड़ें</string>
+    <string name="msdkui_maneuver_turn_right">दाएं मुड़ें</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_1">पहले निकास से निकलें</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_10">दसवें निकास से निकले</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_11">ग्यारहवें निकास से निकलें</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_12">बारहवें निकास से निकलें</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_2">दूसरे निकास से निकलें</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_3">तीसरे निकास से निकलें</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_4">चौथे निकास से निकलें</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_5">पांचवे निकास से निकले</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_6">छठे निकास से निकलें</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_7">सातवें निकास से निकलें</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_8">आठवें निकास से निकलें</string>
+    <string name="msdkui_maneuver_turn_roundabout_exit_9">नौवें निकास से निकलें</string>
+    <string name="msdkui_maneuver_turn_sharply_left">तेज़ी से बाएं मुड़ें</string>
+    <string name="msdkui_maneuver_turn_sharply_right">तेज़ी से दाएं मुड़ें</string>
+    <string name="msdkui_maneuver_turn_slightly_left">थोड़ा बाएं मुड़ें</string>
+    <string name="msdkui_maneuver_turn_slightly_right">थोड़ा दाएं मुड़ें</string>
+    <string name="msdkui_maneuver_uturn">यू-टर्न लें</string>
+    <string name="msdkui_maneuverpanel_nodata">मैप पर मार्ग का अनुसरण करें</string>
+    <string name="msdkui_maneuverpanel_updating">अपडेट कर रहे हैं</string>
+    <string name="msdkui_minutes">%1$d मिनट</string>
+    <string name="msdkui_next_maneuver">अगला मोड़</string>
+    <string name="msdkui_no_traffic_delays">कोई विलंब नहीं</string>
+    <string name="msdkui_none">कोई नहीं</string>
+    <string name="msdkui_number_of_trailers">ट्रेलर</string>
+    <string name="msdkui_ok">ठीक</string>
+    <string name="msdkui_optimal">सर्वोत्तम</string>
+    <string name="msdkui_options">विकल्प</string>
+    <string name="msdkui_organic">कार्बनिक</string>
+    <string name="msdkui_other">अन्य</string>
+    <string name="msdkui_pedestrian">पैदल चलें</string>
+    <string name="msdkui_poison">ज़हर</string>
+    <string name="msdkui_poisonous">विषाक्त पदार्थ का अन्तःश्वसन</string>
+    <string name="msdkui_radioactive">रेडियोधर्मी</string>
+    <string name="msdkui_remove">हटाएँ</string>
+    <string name="msdkui_remove_waypoint">वे- पॉइंट हटाएं</string>
+    <string name="msdkui_remove_waypoint_button">इंडेक्स %1$d पर वे-प्वॉइंट बटन हटाएं</string>
+    <string name="msdkui_route_results_title">मार्ग</string>
+    <string name="msdkui_route_type_title">मार्ग प्रकार</string>
+    <string name="msdkui_routing_options_title">मार्ग के विकल्प</string>
+    <string name="msdkui_rp_from">उद्गम: %1$s</string>
+    <string name="msdkui_rp_to">गंतव्य: %1$s</string>
+    <string name="msdkui_rp_via">वाया</string>
+    <string name="msdkui_scooter">स्कूटर</string>
+    <string name="msdkui_seconds">%1$d सेकेंड</string>
+    <string name="msdkui_selected">चयनित</string>
+    <string name="msdkui_set">सेट करें</string>
+    <string name="msdkui_shortest">सबसे छोटा</string>
+    <string name="msdkui_speed">गति</string>
+    <string name="msdkui_speed_limit">गति सीमा</string>
+    <string name="msdkui_tab_icon">टैब आइकन</string>
+    <string name="msdkui_traffic">ट्रैफ़िक से बचें</string>
+    <string name="msdkui_traffic_blocked">बंद</string>
+    <string name="msdkui_transport_mode">परिवहन प्रकार: %1$s</string>
+    <string name="msdkui_truck">लॉरी</string>
+    <string name="msdkui_truck_options_title">ट्रक के विकल्प</string>
+    <string name="msdkui_truck_type">लॉरी प्रकार</string>
+    <string name="msdkui_truck_type_tractor">ट्रेलर ट्रक</string>
+    <string name="msdkui_truck_type_truck">लॉरी/ट्रक</string>
+    <string name="msdkui_tunnel_cat_b">श्रेणी B</string>
+    <string name="msdkui_tunnel_cat_c">श्रेणी C</string>
+    <string name="msdkui_tunnel_cat_d">श्रेणी D</string>
+    <string name="msdkui_tunnel_cat_e">श्रेणी E</string>
+    <string name="msdkui_tunnels_allowed_title">सुरंग की अनुमति</string>
+    <string name="msdkui_undefined">निर्धारित नहीं</string>
+    <string name="msdkui_unit_foot">ft</string>
+    <string name="msdkui_unit_kilometer">किमी.</string>
+    <string name="msdkui_unit_km_per_h">किमी/घंटा</string>
+    <string name="msdkui_unit_meter">मीटर</string>
+    <string name="msdkui_unit_mile">mi</string>
+    <string name="msdkui_unit_miles_per_hour">mi/h</string>
+    <string name="msdkui_unit_yard">yd</string>
+    <string name="msdkui_userposition_search">आपका स्थान पता कर रहे हैं</string>
+    <string name="msdkui_violate_truck_options">ट्रक विकल्पों को नज़रअंदाज करें</string>
+    <string name="msdkui_waypoint_current_location">वर्तमान स्थान</string>
+    <string name="msdkui_waypoint_select_location">पड़ाव चुनें</string>
+    <string name="msdkui_weight_per_axle">प्रति एक्सल वज़न</string>
+    <string name="msdkui_width">चौड़ाई</string>
+    <string name="mtrl_badge_numberless_content_description">नई सूचना</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s हटाएं</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">%1$d से ज़्यादा नई सूचनाएं</string>
+    <string name="mtrl_picker_a11y_next_month">अगले महीने पर जाएं</string>
+    <string name="mtrl_picker_a11y_prev_month">पिछले महीने पर जाएं</string>
+    <string name="mtrl_picker_announce_current_selection">फ़िलहाल, यह चुना गया है: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">तारीख चुनें</string>
+    <string name="mtrl_picker_date_header_unselected">चुनी गई तारीख</string>
+    <string name="mtrl_picker_day_of_week_column_header">दिनों का कॉलम: %1$s</string>
+    <string name="mtrl_picker_invalid_format">गलत फ़ॉर्मैट.</string>
+    <string name="mtrl_picker_invalid_format_example">उदाहरण: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">%1$s का इस्तेमाल करें</string>
+    <string name="mtrl_picker_invalid_range">तारीखों की अमान्य सीमा.</string>
+    <string name="mtrl_picker_navigate_to_year_description">साल %1$s पर जाएं</string>
+    <string name="mtrl_picker_out_of_range">तारीख की मान्य सीमा से बाहर: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">शुरू होने की तारीख – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – खत्म होने की तारीख</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">रेंज चुनें</string>
+    <string name="mtrl_picker_range_header_unselected">शुरू होने की तारीख – खत्म होने की तारीख</string>
+    <string name="mtrl_picker_save">सेव करें</string>
+    <string name="mtrl_picker_text_input_date_hint">तारीख</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">खत्म होने की तारीख</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">शुरू होने की तारीख</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">कैलेंडर के इनपुट मोड पर स्विच करें</string>
+    <string name="mtrl_picker_toggle_to_day_selection">\'दिन चुनना\' पर स्विच करने के लिए टैप करें</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">टेक्स्ट के इनपुट मोड पर स्विच करें</string>
+    <string name="mtrl_picker_toggle_to_year_selection">\'साल चुनना\' पर स्विच करने के लिए टैप करें</string>
+    <string name="password_toggle_content_description">पासवर्ड दिखाएं</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"खोजें"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

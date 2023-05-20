@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.cocoahero.android:geojson:1.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../mapbox-navigation-android-2.5.1/caches/modules-2/files-2.1/com.cocoahero.android/geojson/1.0.1/5ac9c72666b11d5817e8c3c1145e0b020725e7de/geojson-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../mapbox-navigation-android-2.5.1/caches/modules-2/files-2.1/com.cocoahero.android/geojson/1.0.1/2804ed84f021faeb9347d42c6000b9d125ca1829/geojson-1.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../mapbox-navigation-android-2.5.1/caches/modules-2/files-2.1/com.cocoahero.android/geojson/1.0.1/b3fc6ea16b77b4266a474415ca062af0bdd21a5a/geojson-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

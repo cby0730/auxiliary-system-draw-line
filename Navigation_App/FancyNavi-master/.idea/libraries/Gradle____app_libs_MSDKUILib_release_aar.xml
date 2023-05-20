@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/MSDKUILib-release.aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../mapbox-navigation-android-2.5.1/caches/transforms-3/97887773bae8ef8abfb98e1fb7a94080/transformed/jetified-MSDKUILib-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../mapbox-navigation-android-2.5.1/caches/transforms-3/97887773bae8ef8abfb98e1fb7a94080/transformed/jetified-MSDKUILib-release/res" />
+      <root url="file://$PROJECT_DIR$/../../mapbox-navigation-android-2.5.1/caches/transforms-3/97887773bae8ef8abfb98e1fb7a94080/transformed/jetified-MSDKUILib-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
